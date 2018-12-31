@@ -11,4 +11,4 @@ This project explores the US Bikeshare data (Chicago, New York, and Washington D
 This project uses bikeshare.py and bikeshare data (csv files)
 
 ### Credits
-The bikeshare data were provided by Motivate.
+The bikeshare data were provided by Motivate. 

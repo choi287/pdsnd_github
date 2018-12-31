@@ -225,9 +225,9 @@ def main():
             print(df[start:start+5].head() )
             show_raw_data = input('\nDo you want to see the next 5 lines?\n')
             start+=5
-        
+
         restart = input('\nWould you like to restart? Enter yes or no.\n')
-        
+
         if restart.lower() != 'yes':
             break
 
